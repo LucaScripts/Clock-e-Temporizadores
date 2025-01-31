@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8dc1bd55-a450-4c78-83b0-778bbb2d99cf)## 🚦 Simulação de Semáforo com Raspberry Pi Pico
+🚦 Simulação de Semáforo com Raspberry Pi Pico
 📌 Autor: Lucas Dias
 
 📆 Data: 31/01/2025
