@@ -89,7 +89,7 @@ Aqui está o teste do semáforo rodando na **Placa BitDogLab**:
 
 Abaixo está uma prévia da simulação do semáforo no **Wokwi**:
 
-![Simulação do Semáforo no Wokwi](https://github.com/LucaScripts/Clock-e-Temporizadores/blob/main/docs/Clock-e-Temporizadores%20-%20Visual%20Studio%20Code%202025-01-31%2018-33-11.gif?raw=true)
+![Simulação do Semáforo no Wokwi]([https://github.com/LucaScripts/Clock-e-Temporizadores/blob/main/docs/Clock-e-Temporizadores%20-%20Visual%20Studio%20Code%202025-01-31%2018-33-11.gif?raw=true](https://github.com/LucaScripts/Clock-e-Temporizadores/blob/main/docs/WhatsApp%20Video%202025-01-31%20at%2018.54.46.gif?raw=true))
 
 
 ## 🎥 **Demonstração (Simulação no Wokwi)**
