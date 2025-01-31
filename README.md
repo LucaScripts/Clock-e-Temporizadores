@@ -1,4 +1,5 @@
-🚦 Simulação de Semáforo com Raspberry Pi Pico
+##🚦 **Simulação de Semáforo com Raspberry Pi Pico**
+
 📌 Autor: Lucas Dias
 
 📆 Data: 31/01/2025
