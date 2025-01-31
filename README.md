@@ -50,6 +50,14 @@ git clone https://github.com/seu-usuario/semaforo-pico.git
 cd semaforo-pico
 ```
 
+## 📥 Clonando o Repositório e  Compilando e Enviando para o Raspberry Pi Pico
+
+Para baixar o código e começar a trabalhar com ele clonar o repositório e carregar o código na placa siga os passos abaixo:
+
+![Clonando o Repositório](https://github.com/LucaScripts/Clock-e-Temporizadores/blob/main/docs/Bem-vindo%20-%20Visual%20Studio%20Code%202025-01-31%2018-49-32.gif?raw=true)
+
+
+
 ### **3️⃣ Compilar e enviar o código para o Raspberry Pi Pico**
 No ambiente **VS Code** com o **Pico SDK** configurado:  
 ```bash
@@ -60,12 +68,13 @@ make
 ```
 Após a compilação, copie o arquivo `.uf2` gerado para o Raspberry Pi Pico (modo bootloader ativado).
 
-### **4️⃣ Testar o projeto**
-Abra um terminal serial para visualizar as mensagens do semáforo:  
-```bash
-minicom -b 115200 -o -D /dev/ttyUSB0
-```
-Ou utilize o **Putty** no Windows configurando a porta serial correta.
+## 🧪 Testando na Placa BitDogLab
+
+Aqui está o teste do semáforo rodando na **Placa BitDogLab**:
+
+![Testando na BitDogLab]([https://github.com/LucaScripts/Clock-e-Temporizadores/blob/main/docs/teste-bitdoglab.gif?raw=true](https://github.com/LucaScripts/Clock-e-Temporizadores/blob/main/docs/WhatsApp%20Video%202025-01-31%20at%2018.54.46.gif?raw=true))
+
+
 
 ---
 
