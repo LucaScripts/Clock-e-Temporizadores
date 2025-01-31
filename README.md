@@ -84,7 +84,7 @@ Abaixo está uma prévia da simulação do semáforo no **Wokwi**:
 
 
 ## 🎥 **Demonstração (Simulação no Wokwi)**
-🔗 Teste no Wokwi: [Clique Aqui]([https://wokwi.com/projects/123456](https://wokwi.com/projects/421633569441256449))
+🔗 Teste no Wokwi: [Wokwi](https://wokwi.com/projects/421633569441256449)
 
 ---
 
