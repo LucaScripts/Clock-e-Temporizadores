@@ -1,4 +1,4 @@
-##🚦 **Simulação de Semáforo com Raspberry Pi Pico**
+## 🚦 **Simulação de Semáforo com Raspberry Pi Pico**
 
 📌 Autor: Lucas Dias
 
