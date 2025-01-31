@@ -1,4 +1,4 @@
-## 🚦 Simulação de Semáforo com Raspberry Pi Pico
+![image](https://github.com/user-attachments/assets/8dc1bd55-a450-4c78-83b0-778bbb2d99cf)## 🚦 Simulação de Semáforo com Raspberry Pi Pico
 📌 Autor: Lucas Dias
 
 📆 Data: 31/01/2025
@@ -87,7 +87,7 @@ Aqui está o teste do semáforo rodando na **Placa BitDogLab**:
 
 Abaixo está uma prévia da simulação do semáforo no **Wokwi**:
 
-![Simulação do Semáforo no Wokwi]([https://github.com/LucaScripts/Clock-e-Temporizadores/blob/main/docs/Clock-e-Temporizadores%20-%20Visual%20Studio%20Code%202025-01-31%2018-33-11.gif?raw=true](https://github.com/LucaScripts/Clock-e-Temporizadores/blob/main/docs/WhatsApp%20Video%202025-01-31%20at%2018.54.46.gif?raw=true))
+![Simulação do Semáforo no Wokwi](https://github.com/LucaScripts/Clock-e-Temporizadores/blob/main/docs/Clock-e-Temporizadores%20-%20Visual%20Studio%20Code%202025-01-31%2018-33-11.gif?raw=true)
 
 
 ## 🎥 **Demonstração (Simulação no Wokwi)**
