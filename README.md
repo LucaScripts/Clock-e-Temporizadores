@@ -80,8 +80,7 @@ Ou utilize o **Putty** no Windows configurando a porta serial correta.
 
 Abaixo está uma prévia da simulação do semáforo no **Wokwi**:
 
-![Simulação do Semáforo no Wokwi]([https://github.com/seu-usuario/seu-repositorio/assets/12345678/seu-gif.gif](https://github.com/LucaScripts/Clock-e-Temporizadores/blob/main/docs/Clock-e-Temporizadores%20-%20Visual%20Studio%20Code%202025-01-31%2018-33-11.gif))
-
+![Simulação do Semáforo no Wokwi] https://github.com/LucaScripts/Clock-e-Temporizadores/blob/main/docs/Clock-e-Temporizadores%20-%20Visual%20Studio%20Code%202025-01-31%2018-33-11.gif
 ---
 
 ## 🎥 **Demonstração (Simulação no Wokwi)**
