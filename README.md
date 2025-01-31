@@ -1,6 +1,7 @@
 ## 🚦 Simulação de Semáforo com Raspberry Pi Pico
 📌 Autor: Lucas Dias
 📆 Data: 31/01/2025
+
 Este projeto implementa um **sistema de semáforo** utilizando o **Raspberry Pi Pico** e LEDs para indicar os estados de trânsito: **Vermelho (PARE), Amarelo (ATENÇÃO) e Verde (SIGA)**. O código utiliza **temporizadores periódicos** para alternar os sinais a cada **3 segundos**.  
 
 ---
